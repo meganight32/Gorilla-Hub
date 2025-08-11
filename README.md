@@ -28,3 +28,5 @@ This is a Next.js + Tailwind + Supabase project. Follow the "Deploy & setup" ste
 - This starter keeps the UI simple — you can harden DB policies and storage rules later.
 
 If you want automated scripts to run SQL or seed data, let me know and I’ll provide those too.
+
+Triggering new build
